@@ -15,8 +15,8 @@ st.markdown(
 
 DB_SERVER = 'localhost'
 DB_DATABASE = 'AdventureWorks2022'
-DB_USERNAME = 'sa'
-DB_PASSWORD = '938ap404' 
+DB_USERNAME = 'SEU_USUARIO_AQUI'  # Coloque seu usuário aqui, ex: 'sa'
+DB_PASSWORD = 'SUA_SENHA_AQUI'    # Coloque sua senha aqui
 
 
 # conectar ao banco e carregar os dados.
