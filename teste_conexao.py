@@ -2,9 +2,8 @@ import pyodbc
 
 server = 'localhost'  # ou 'localhost\\SQLEXPRESS' se for instância nomeada
 database = 'AdventureWorks2022'
-username = 'sa'
-password = '938ap404'
-
+username = 'SEU_USUARIO_AQUI'
+password = 'SUA_SENHA_AQUI'
 conn_str = (
     f"DRIVER={{ODBC Driver 17 for SQL Server}};"
     f"SERVER={server};"
